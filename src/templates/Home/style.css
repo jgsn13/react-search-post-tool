@@ -1,0 +1,29 @@
+.container {
+  max-width: 1358px;
+  margin: 0 auto;
+  min-height: 100vh;
+  background: #eeeeee;
+  padding: 16px;
+}
+
+.button-container {
+  min-height: 60px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.search-container {
+  margin-bottom: 22px;
+}
+
+.search-container .search-value {
+  margin: 16px auto;
+}
+
+.search-container .search-results {
+  margin: 16px auto;
+}
+
+.no-post {
+  color: #FF3C3C;
+}
