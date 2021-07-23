@@ -1,4 +1,4 @@
-# React Post Search Tool
+# React Search Post Tool
 
 ## Screenshots
 ![First look](screenshots/01.png)  ![Searching](screenshots/02.png)
